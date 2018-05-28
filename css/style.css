@@ -27,7 +27,7 @@ body{}
 .latest-project .thumbnail img{width: 100%;height: 200px;float: left;}
 .latest-project .thumbnail .img-caption{box-shadow: 0 2px 7px 0;padding: 40px;}
 .latest-project .thumbnail .img-caption h4{margin-top: 20px;}
-.big-footer{width: 100%;height: 320px;background-color: #E5E5E5;padding: 20px 150px 20px 190px;}
+.big-footer{width: 100%;min-height: 320px;background-color: #E5E5E5;padding: 20px 150px 20px 190px;}
 .big-footer .about-me{width: 48.5%;height: 100%;float: left;}
 .big-footer .about-me h2{font-size: 30px;}
 .big-footer .about-me p{padding: 20px 0px 20px 0px; font-size: 15px;text-align: justify;}
